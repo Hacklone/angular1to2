@@ -1,0 +1,47 @@
+{
+    "name": "angular1to2",
+    "version": "0.0.1",
+    "author": "Hacklone <toakak@gmail.com>",
+    "description": "Convert your angular 1.x project into angular 2",
+    "main": "./lib/main",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/Hacklone/angular1to2.git"
+    },
+    "keywords": [
+        "angular1to2",
+        "angular",
+        "convert",
+        "angular2",
+        "upgrade"
+    ],
+    "scripts": {
+        "start": "node ./bin/angular1to2"
+    },
+    "dependencies": {
+        "optimist": "^0.6.1",
+        "through2": "^0.6.3",
+        "vinyl-fs": "^1.0.0"
+    },
+    "devDependencies": {
+        "gulp": "^3.8.11",
+        "gulp-jasmine": "^2.0.0",
+        "jasmine-expect": "^2.0.0-beta1",
+        "mockery": "^1.4.0"
+    },
+    "bugs": {
+        "url": "https://github.com/Hacklone/angular1to2/issues"
+    },
+    "homepage": "https://github.com/Hacklone/angular1to2",
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/Hacklone/angular1to2/raw/master/LICENSE"
+        }
+    ],
+    "analyze": false,
+    "preferGlobal": "true",
+    "bin": {
+        "angular1to2": "./bin/angular1to2"
+    }
+}
