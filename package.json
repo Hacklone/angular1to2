@@ -1,6 +1,6 @@
 {
     "name": "angular1to2",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "Hacklone <toakak@gmail.com>",
     "description": "Convert your angular 1.x project into angular 2",
     "main": "./lib/main",
