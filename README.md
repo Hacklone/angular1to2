@@ -23,7 +23,21 @@ Convert your angular 1.x project into angular 2
 ```angular1to2 pathToYourProject```
 
 # Supported conversions
-## Attributes
+## Directives
+- ng-blur ![Supported][progress-supported]
+- ng-cheked ![Supported][progress-supported]
+- ng-click ![Supported][progress-supported]
+- ng-dblclick ![Supported][progress-supported]
+- ng-focus ![Supported][progress-supported]
 - ng-hide ![Supported][progress-supported]
-- ng-show ![Supported][progress-supported]
+- ng-href ![Supported][progress-supported]
+- ng-if ![Supported][progress-supported]
+- ng-keydown ![Supported][progress-supported]
+- ng-keypress ![Supported][progress-supported]
+- ng-keyup ![Supported][progress-supported]
 - ng-repeat ![Partially supported][progress-partially-supported]
+- ng-show ![Supported][progress-supported]
+- ng-src ![Supported][progress-supported]
+- ng-value ![Supported][progress-supported]
+
+> More coming...
