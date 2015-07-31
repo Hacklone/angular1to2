@@ -25,6 +25,7 @@ Convert your angular 1.x project into angular 2
 # Supported conversions
 ## Directives
 - ng-blur ![Supported][progress-supported]
+- ng-class ![Supported][progress-supported]
 - ng-cheked ![Supported][progress-supported]
 - ng-click ![Supported][progress-supported]
 - ng-dblclick ![Supported][progress-supported]
