@@ -42,5 +42,6 @@ Convert your angular 1.x project into angular 2
 - ng-switch ![Supported][progress-supported]
 - ng-switch-when ![Supported][progress-supported]
 - ng-switch-default ![Supported][progress-supported]
+- ng-style ![Supported][progress-supported]
 
 > More coming...
